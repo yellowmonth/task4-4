@@ -5,6 +5,29 @@
 ---
 
 
+<picture>
+  <img src="https://github.com/yellowmonth/task4-4/blob/main/assets/screens/1.png">
+</picture>
+
+<picture>
+  <img src="https://github.com/yellowmonth/task4-4/blob/main/assets/screens/2.png">
+</picture>
+
+<picture>
+  <img src="https://github.com/yellowmonth/task4-4/blob/main/assets/screens/3.png">
+</picture>
+
+<picture>
+  <img src="https://github.com/yellowmonth/task4-4/blob/main/assets/screens/4.png">
+</picture>
+
+<picture>
+  <img src="https://github.com/yellowmonth/task4-4/blob/main/assets/screens/5.png">
+</picture>
+
+<picture>
+  <img src="https://github.com/yellowmonth/task4-4/blob/main/assets/screens/6.png">
+</picture>
 
 
 ```csharp
